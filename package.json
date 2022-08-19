@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:dash": "cypress run --record --key 7c3d6f7a-9279-4f27-9811-81a9c151e512"
   },
   "keywords": [],
   "author": "scherbakov",
